@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KartikBhawar
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning programming languages
+- 🌱 I’m currently a student pursuing BCA from Chandigarh University .
 - 📫 How to reach me - kartikbhawar6549@gmail.com
 
 <!---
